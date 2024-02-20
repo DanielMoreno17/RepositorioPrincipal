@@ -363,6 +363,7 @@
 "Assets/Scripts/P2_MoveTowards.cs"
 "Assets/Scripts/P3_Distance.cs"
 "Assets/Scripts/P4_MoveTowardsV2.cs"
+"Assets/Scripts/Spawn.cs"
 -langversion:9.0
 
 /deterministic
